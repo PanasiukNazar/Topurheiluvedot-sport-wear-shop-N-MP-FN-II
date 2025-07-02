@@ -701,7 +701,7 @@ body {
     z-index: 9;
 }
 .schedule .single-schedule {
-    height: 450px;
+    height: 100%;
     position: relative;
     text-align: left;
     z-index: 3;
