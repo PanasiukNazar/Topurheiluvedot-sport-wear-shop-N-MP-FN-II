@@ -1235,6 +1235,7 @@ body {
 .pf-details .image-slider img {
     height: 100%;
     width: 100%;
+    object-fit: contain !important;
 }
 .pf-details .date {
     background: #1a76d1;
